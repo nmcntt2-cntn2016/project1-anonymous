@@ -10,5 +10,5 @@ Hồ Minh Huấn | 1612224
 Trần Hoài Nam | 1612403
 
 ## **Our Project**
-Our product is smart helmet with some special functions such as sending signal to relatives when a strong hit occurs, integrated dash camera, portable battery charger, ...
-It is suitable for the ones who join in traffic on foot and by motobike. It helps people to have an immediate emergency by leaving their relatives warnings. Besides, it also provides users with convenience by connecting with their smartphone like a virtual assistant. 
+Our product is a smart helmet with some special functions such as sending signal to relatives when a strong impact occurs, integrated dash camera, portable battery charger, etc.
+It is suitable for people who join in the traffic on foot and by motobike. It helps people to send an immediate emergency signal to their relatives. Besides, it also provides users with convenience by connecting with their smartphone like a virtual assistant. 
