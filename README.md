@@ -3,7 +3,7 @@
 ## **Members Of Team**
 
 Full Name | Student ID 
-----------------------
+----------|-----------
 Mai Nguyễn Anh Vũ | 1612904
 Vương Hy | 1612864
 Hồ Minh Huấn | 1612224
