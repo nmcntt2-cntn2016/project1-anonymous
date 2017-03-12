@@ -17,13 +17,13 @@ Hiện nay, tai nạn giao thông có xu hướng ngày càng tăng dần. Tuy n
 ###**Mục đích**
 Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt hại về con người. Đồng thời hỗ trợ người điều khiển xe trong quá trình tham gia giao thông.
 ###**Đối tượng hướng đến**
-Người tham gia giao thông bằng các loại xe hai bánh
+Người tham gia giao thông bằng các loại xe hai bánh.
 ###**Chức năng sản phẩm**
-* Tự động gửi tín hiệu cho người thân khi gặp sự cố
-* Kết nối với điện thoại thông minh
- * Kết nối với bản đồ để tìm và dẫn đường bằng giọng nói
- * Đo tốc độ và cảnh báo nếu tới ngưỡng nguy hiểm
- * Hỗ trợ trả lời điện thoại
-* Ghi lại vị trí và tích hợp camera hành trình
-* Định vị và tự động ghi lại vị trí sau một khoảng thời gian
-* Sạc điện thoại
+* Tự động gửi tín hiệu cho người thân khi gặp sự cố.
+* Kết nối với điện thoại thông minh.
+ * Kết nối với bản đồ để tìm và dẫn đường bằng giọng nói.
+ * Đo tốc độ và cảnh báo nếu tới ngưỡng nguy hiểm.
+ * Hỗ trợ trả lời điện thoại.
+* Ghi lại vị trí và tích hợp camera hành trình.
+* Định vị và tự động ghi lại vị trí sau một khoảng thời gian.
+* Sạc điện thoại.
