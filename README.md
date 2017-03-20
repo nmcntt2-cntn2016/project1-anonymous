@@ -9,7 +9,7 @@ Vương Hy | 1612864
 Hồ Minh Huấn | 1612224
 Trần Hoài Nam | 1612403
 
-## **Our Project**
+## **Dự án**
 Sản phẩm của nhóm là môt chiếc mũ bảo hiểm thông minh có khả năng gửi tín hiệu cho người thân khi xảy ra sự cố, bên cạnh đó còn tích hợp camera hành trình, sạc điện thoại và có thể kết nối với điện thoại thông minh để thực hiện một số các chức năng đặc biệt khác.
 Sản phẩm thích hợp cho người tham gia giao thông bằng các loại xe hai bánh.
 
