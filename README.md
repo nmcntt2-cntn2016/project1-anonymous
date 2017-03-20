@@ -1,7 +1,7 @@
 # _**MBH++**_  - *anonymous* <h1>
  *created by GitHub Classroom*
  
- [_Trang chủ Team_](NMCNTT2-Anonymous.github.io)
+ [_Trang chủ Team_](https://nmcntt2-anonymous.github.io/)
  
 ## **Danh sách thành viên**
 
