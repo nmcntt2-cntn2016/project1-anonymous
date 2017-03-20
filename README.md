@@ -1,5 +1,5 @@
-# _**MBH++**_  - *anonymous* <h1>
- *created by GitHub Classroom*
+# _**MBH++**_  - *Anonymous* <h1> 
+ *created by GitHub Classroom* 
  
  [_Trang chủ Team_](https://nmcntt2-anonymous.github.io/)
  
