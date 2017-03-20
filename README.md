@@ -1,6 +1,6 @@
 # _**MBH++**_  - *anonymous* <h1>
  *created by GitHub Classroom*
- _Website_: [a link](https://nmcntt2-anonymous.github.io/)
+ 
 ## **Danh sách thành viên**
 
 Họ và tên | Mã số sinh viên 
