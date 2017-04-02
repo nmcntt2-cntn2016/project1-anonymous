@@ -33,5 +33,5 @@ Người tham gia giao thông bằng các loại xe hai bánh.
   - Trả lời cuộc gọi: Khi có cuộc gọi, mũ sẽ báo cho người dùng để người dùng quyết định sẽ trả lời hay không trả lời. Nếu cần thiết, mũ sẽ thực hiện chức năng trả lời tự động.
   - Đọc tin nhắn: Người dùng có thể chọn có đọc tin nhắn hay là không. Nếu chọn trả lời tin nhắn, mũ bảo hiểm sẽ tự động đọc tin nhắn cho người dùng.
   - Tránh kẹt xe: Cập nhật tình hình giao thông trong khu vực để thông báo khu vực kẹt xe đến người dùng.
-* Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng, có hộp đen phòng trường hợp sự cố xảy ra.
-* Định vị và tự động ghi lại vị trí sau một khoảng thời gian, có thể dùng để xác định vị trí của nhóm, thông qua đó biết được vị trí xe khi cần thiết.
+* Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng.
+* Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
