@@ -89,6 +89,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
+
 => Một thị trường lớn và đầy tiềm năng.
 
 ##### **2. Đối thủ kinh doanh:**
