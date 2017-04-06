@@ -17,6 +17,7 @@ Sản phẩm của nhóm là mũ bảo hiểm thông minh có khả năng gửi 
 
 ### **Thực trạng**
 Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra 21 589 vụ tai nạn, làm chết 8685 người, bị thương 19280 người. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
+**Image**
 
 ### **Mục đích**
 Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt hại về con người. Đồng thời hỗ trợ người điều khiển xe trong quá trình tham gia giao thông.
@@ -41,11 +42,11 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
-- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. [_ Bấm vào đây!_](https://en.wikipedia.org/wiki/Head_injury_criterion)
+- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. [ Bấm vào đây!](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
 ##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
 - Chúng tôi đã đánh giá tỉ lệ va chạm khi xảy ra trên các vùng của mũ để đảm bảo cho các thiết bị khi va chạm sẽ ít bị ảnh hưởng nhất. 
-Đây là nguyên cứu về tỉ lệ được chứng minh. [_ Bấm vào đây!_](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
+Đây là nguyên cứu về tỉ lệ được chứng minh. [ Bấm vào đây!](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
 
 ##### **3. Tại sao lại chọn các mẫu mũ bảo hiểm như vậy?**
 -	Sau khi nghiên cứu các đặc điểm người tiêu dùng mũ bảo hiểm ở Việt Nam, chúng tôi quyết định chọn 3 kiểu dáng mà người tiêu dùng ưu chuộng nhất.
@@ -56,3 +57,5 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ##### **5. Mũ có bảo đảm an toàn khi va đạp? Chống thấm nước? Các thiết bị có bị hư hại gì khi thời gian sử dụng dài?**
 -	Chúng tôi thiết kế mũ được dùng trong các trường hợp đặc biệt. Vậy nên các bạn có thể yên tâm, nếu có xảy ra va chạm hoặc trời mưa, thiết bị cũng không gặp bất cứ trục trặc gì gây nguy hiểm cho người dùng. 
+
+#### **II. MẶT KINH TẾ**
