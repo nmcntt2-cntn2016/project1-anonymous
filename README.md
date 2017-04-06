@@ -58,6 +58,10 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng.
 * Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
+### **Bản thiết kế**
+### **Thông số kĩ thuật**
+### **Quy trình vận hành**
+### **Hướng dẫn sử dụng**
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
