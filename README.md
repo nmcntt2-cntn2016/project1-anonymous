@@ -89,11 +89,15 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
+=> Một thị trường lớn và đầy tiềm năng.
+
 ##### **2. Đối thủ kinh doanh:**
 Tại Việt Nam, hiện nay chưa có loại mũ bảo hiểm thông minh nào được bày bán trên thị trường. Vậy nên sẽ có những thuận lợi và khó khăn sau:
+
 a) Thuận lợi:
 - Không phải cạnh tranh với các sản phẩm khác. 
 - Thị trường rộng lớn, đa dạng.
+
 b) Khó khăn:
 - Bán những sản phẩm đầu tiên ở hạng mục này. 
 - Chiếm được lòng tin của người tiêu dùng.
