@@ -58,6 +58,34 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng.
 * Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
+### **Chi tiết về các chức năng**
+I.	Enabling Application
+-	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
+II.	Cảm biến va chạm
+-	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
+-	Cách xác định va chạm:
++	Va chạm 1 lần với 1 lực tiêu chuẩn nhất định.
++	Va chạm nhiều lần với lực nào đó
+III.	 Định vị mũ
+-	Mũ được kết hợp với thiết bị định vị GPS. 
+IV.	Auto Signal System
+-	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
+-	Nội dung tin nhắn sẽ bao gồm:
++	Vị trí của người sử dụng gặp sự cố theo GPS.
++	Thời gian thực được lưu lại.
++	SOS
++	Chỉ số HIC và tốc độ xe tại thời điểm đó.
++	Hình ảnh cắt từ camera (nếu có Internet).
+V.	Smart Warning
+-	Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
+VI.	Traffic Helper
+-	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
+-	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin thời gian thực lấy trên ???
+VII.	Tự động trả lời điện thoại và tin nhắn.
+-	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
+VIII.	Camera hành trình 
+-	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
+
 ### **Bản thiết kế**
 ### **Thông số kĩ thuật**
 ### **Quy trình vận hành**
@@ -80,6 +108,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ##### **5. Mũ có bảo đảm an toàn khi va đạp? Chống thấm nước? Các thiết bị có bị hư hại gì khi thời gian sử dụng dài?**
 -	Chúng tôi thiết kế mũ được dùng trong các trường hợp đặc biệt. Vậy nên các bạn có thể yên tâm, nếu có xảy ra va chạm hoặc trời mưa, thiết bị cũng không gặp bất cứ trục trặc gì gây nguy hiểm cho người dùng. 
+
+##### **6. Thiết bị thay thế khi bị hư hỏng?**
+- Hiện tại, chúng tôi cung cấp một số thiết bị thay thế như Camera, Bluetooth, cảm biến va đạp, pin, ... Khách hàng có thể đến chi nhánh của công ty để được thay thế hàng chính hãng.
 
 #### **II. MẶT KINH TẾ**
 ##### **1. Phân tích sơ bộ thị trường:**
@@ -117,4 +148,4 @@ a) Sản phẩm Full Head dành cho người đi moto và dân phượt
 b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 - Đây là phân khúc thị trường lớn. Người dùng phổ thông đa phần có thu nhập trung bình và nhu cầu sử dụng các tính năng của mũ không quá lớn. Chúng tôi tập trung chủ yếu phát triển hệ thống thông báo khi có sự cố xảy ra. Vậy nên giá thành của mũ khá phải chăng, phù hợp với hầu hết người điều khiển xe máy hiện nay. 
 
-=> Xu hướng chung của người dân là quan tâm bảo vệ sức khỏe, tính mạng của mình và người thân. Vậy nên, sản phẩm ra đời sẽ tạo ra một cuộc cách mạng trong việc sử dụng các sản phẩm thông minh có giá cả vừa phải để chăm sóc và bảo vệ sức khỏe, tính mạng. 
+=> Xu hướng chung của người dân là quan tâm bảo vệ sức khỏe, tính mạng của mình và người thân. Vậy nên, sản phẩm ra đời sẽ tạo ra một cuộc cách mạng trong việc sử dụng các sản phẩm thông minh có giá vừa phải để chăm sóc và bảo vệ sức khỏe, tính mạng. 
