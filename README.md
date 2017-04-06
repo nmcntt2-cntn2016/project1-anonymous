@@ -59,3 +59,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 -	Chúng tôi thiết kế mũ được dùng trong các trường hợp đặc biệt. Vậy nên các bạn có thể yên tâm, nếu có xảy ra va chạm hoặc trời mưa, thiết bị cũng không gặp bất cứ trục trặc gì gây nguy hiểm cho người dùng. 
 
 #### **II. MẶT KINH TẾ**
+##### **1. Phân tích sơ bộ thị trường:**
+- Thu nhập của người dân Việt Nam ngày càng tăng cao. Hiện nay, mức sống trung bình của một người trong khoảng từ 5-10 triệu đồng/tháng.
+
+![alt tag](http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png)
+
+- Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
