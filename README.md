@@ -19,12 +19,15 @@ Sản phẩm của nhóm là mũ bảo hiểm thông minh có khả năng gửi 
 Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra 21 589 vụ tai nạn, làm chết 8685 người, bị thương 19280 người. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
 
 ![alt Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016 ](http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd2.png)
+
 Hình 1: Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016
 
 ![alt Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016](http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd5.png)
+
 Hình 2: Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016
 
 ![alt Biểu đồ so sánh TNGT năm 2015 - 2016](http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd1.png)
+
 Hình 3: Biểu đồ so sánh TNGT năm 2015 - 2016
 
 
@@ -72,6 +75,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 - Thu nhập của người dân Việt Nam ngày càng tăng cao. Hiện nay, mức sống trung bình của một người trong khoảng từ 5-10 triệu đồng/tháng.
 
 ![alt Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014](http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png)
+
 Hình 4: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
