@@ -46,3 +46,13 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
 - Chúng tôi đã đánh giá tỉ lệ va chạm khi xảy ra trên các vùng của mũ để đảm bảo cho các thiết bị khi va chạm sẽ ít bị ảnh hưởng nhất. 
 Đây là nguyên cứu về tỉ lệ được chứng minh. [_ Bấm vào đây!_](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
+
+##### **3. Tại sao lại chọn các mẫu mũ bảo hiểm như vậy?**
+-	Sau khi nghiên cứu các đặc điểm người tiêu dùng mũ bảo hiểm ở Việt Nam, chúng tôi quyết định chọn 3 kiểu dáng mà người tiêu dùng ưu chuộng nhất.
+-	Ngoài ra, để đảm bảo sự an toàn của các thiết bị gắn bên trong, chúng tôi cũng sửa đổi một số cấu trúc của mũ. Tuy nhiên, chất lượng mũ vẫn được đảo bảo.
+
+##### **4. Khối lượng mũ như vậy có ảnh hưởng gì đến người dùng không?**
+- Hiện tại mũ bảo hiểm của chúng tôi chỉ nặng hơn loại thông thường khoảng 250g. Như vậy, so với những loại mũ nặng nhất thì cũng tương đương. Do đó, sẽ không có bất kì ảnh hưởng gì đến người dùng.
+
+##### **5. Mũ có bảo đảm an toàn khi va đạp? Chống thấm nước? Các thiết bị có bị hư hại gì khi thời gian sử dụng dài?**
+-	Chúng tôi thiết kế mũ được dùng trong các trường hợp đặc biệt. Vậy nên các bạn có thể yên tâm, nếu có xảy ra va chạm hoặc trời mưa, thiết bị cũng không gặp bất cứ trục trặc gì gây nguy hiểm cho người dùng. 
