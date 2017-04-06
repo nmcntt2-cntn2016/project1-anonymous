@@ -64,9 +64,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 #### **II.	Cảm biến va chạm**
 *	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
-*	Cách xác định va chạm:
-   -	Va chạm 1 lần với 1 lực tiêu chuẩn nhất định.
-   -	Va chạm nhiều lần với lực nào đó
+* Cách xác định va chạm:
+  - Va chạm 1 lần với lực xác định.
+  - Va chạm nhiều lần với lực xác định.
 
 #### **III.	 Định vị mũ**
 *	Mũ được kết hợp với thiết bị định vị GPS. 
@@ -77,8 +77,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
    -	Vị trí của người sử dụng gặp sự cố theo GPS.
    -	Thời gian thực được lưu lại.
    -	SOS
-   -	Chỉ số HIC và tốc độ xe tại thời điểm đó.
-   -	Hình ảnh cắt từ camera (nếu có Internet).
+   -	Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
 
 #### **V.	Smart Warning**
 * Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
