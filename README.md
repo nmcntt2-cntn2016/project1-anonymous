@@ -5,12 +5,12 @@
  
 ## **Danh sách thành viên**
 
-Họ và tên | Mã số sinh viên 
-----------|-----------
-Mai Nguyễn Anh Vũ | 1612904
-Vương Hy | 1612864
-Hồ Minh Huấn | 1612224
-Trần Hoài Nam | 1612403
+Họ và tên | Mã số sinh viên | Vai trò trong dự án
+----------|-----------------|---------------------
+Mai Nguyễn Anh Vũ | 1612904 | Quản lý dự án
+Vương Hy | 1612864 | Thiết kế mũ và ứng dụng di động
+Hồ Minh Huấn | 1612224 | Thiết kế web và poster
+Trần Hoài Nam | 1612403 | Thiết kế mũ
 
 ## **Dự án**
 Sản phẩm của nhóm là mũ bảo hiểm thông minh có khả năng gửi tín hiệu cho người thân khi xảy ra sự cố, bên cạnh đó còn tích hợp camera hành trình và có thể kết nối với điện thoại thông minh để thực hiện một số các chức năng đặc biệt khác.
