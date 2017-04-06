@@ -60,31 +60,38 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ### **Chi tiết về các chức năng**
 I.	Enabling Application
--	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
+*	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
+
 II.	Cảm biến va chạm
--	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
--	Cách xác định va chạm:
-+	Va chạm 1 lần với 1 lực tiêu chuẩn nhất định.
-+	Va chạm nhiều lần với lực nào đó
+*	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
+*	Cách xác định va chạm:
+-	Va chạm 1 lần với 1 lực tiêu chuẩn nhất định.
+-	Va chạm nhiều lần với lực nào đó
+
 III.	 Định vị mũ
--	Mũ được kết hợp với thiết bị định vị GPS. 
+*	Mũ được kết hợp với thiết bị định vị GPS. 
+
 IV.	Auto Signal System
--	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
--	Nội dung tin nhắn sẽ bao gồm:
-+	Vị trí của người sử dụng gặp sự cố theo GPS.
-+	Thời gian thực được lưu lại.
-+	SOS
-+	Chỉ số HIC và tốc độ xe tại thời điểm đó.
-+	Hình ảnh cắt từ camera (nếu có Internet).
+*	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
+*	Nội dung tin nhắn sẽ bao gồm:
+-	Vị trí của người sử dụng gặp sự cố theo GPS.
+-	Thời gian thực được lưu lại.
+-	SOS
+-	Chỉ số HIC và tốc độ xe tại thời điểm đó.
+-	Hình ảnh cắt từ camera (nếu có Internet).
+
 V.	Smart Warning
--	Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
+* Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
+
 VI.	Traffic Helper
--	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
--	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin thời gian thực lấy trên ???
+*	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
+*	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin thời gian thực lấy trên ???
+
 VII.	Tự động trả lời điện thoại và tin nhắn.
--	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
+*	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
+
 VIII.	Camera hành trình 
--	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
+*	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
 
 ### **Bản thiết kế**
 ### **Thông số kĩ thuật**
