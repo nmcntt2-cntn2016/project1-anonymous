@@ -89,3 +89,23 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
+##### **2. Đối thủ kinh doanh:**
+Tại Việt Nam, hiện nay chưa có loại mũ bảo hiểm thông minh nào được bày bán trên thị trường. Vậy nên sẽ có những thuận lợi và khó khăn sau:
+a) Thuận lợi:
+- Không phải cạnh tranh với các sản phẩm khác. 
+- Thị trường rộng lớn, đa dạng.
+b) Khó khăn:
+- Bán những sản phẩm đầu tiên ở hạng mục này. 
+- Chiếm được lòng tin của người tiêu dùng.
+
+##### **3. Chiến lượt phát triển**
+Để sản có thể đến rộng rãi hơn với người dùng, đầu tiên chúng tôi sẽ chú trọng phát triển 2 mảng lớn:
+
+a) Sản phẩm Full Head dành cho người đi moto và dân phượt
+- Đây là một phân khúc thị trường tiềm năng. Những khách hàng này có thu nhập cao và nhu cầu sử dụng mũ bảo hiểm Full Head thường xuyên. Tuy nhiên, yêu cầu của người dùng loại mũ này cũng rất khắc khe. 
+- Chúng tôi sẽ tiếp cận một số nhóm phượt lớn tại Việt Nam, giới thiệu sản phẩm, cho họ dùng thử nghiệm để khảo sát được những điểm tốt và chưa tốt của mũ. Sau đó, tiến hành bán sản phẩm cho các nhóm này. Rồi dần dần họ sẽ là người quảng bá sản phẩm đến với dân phượt ở khắp nơi.
+
+b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
+- Đây là phân khúc thị trường lớn. Người dùng phổ thông đa phần có thu nhập trung bình và nhu cầu sử dụng các tính năng của mũ không quá lớn. Chúng tôi tập trung chủ yếu phát triển hệ thống thông báo khi có sự cố xảy ra. Vậy nên giá thành của mũ khá phải chăng, phù hợp với hầu hết người điều khiển xe máy hiện nay. 
+
+=> Xu hướng chung của người dân là quan tâm bảo vệ sức khỏe, tính mạng của mình và người thân. Vậy nên, sản phẩm ra đời sẽ tạo ra một cuộc cách mạng trong việc sử dụng các sản phẩm thông minh có giá cả vừa phải để chăm sóc và bảo vệ sức khỏe, tính mạng. 
