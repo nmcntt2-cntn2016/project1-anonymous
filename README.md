@@ -22,10 +22,12 @@ Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã 
 Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt hại về con người. Đồng thời hỗ trợ người điều khiển xe trong quá trình tham gia giao thông.
 
 ### **Đối tượng hướng đến**
-Người tham gia giao thông bằng các loại xe hai bánh.
+* Người dùng phổ thông: Thích hợp với loại ½ head hoặc ¾ head. Họ thường xuyên di chuyển quảng đường từ ngắn đến trung bình. Những người này cần loại mũ gọn nhẹ, có những chức năng cơ bản, giá thành vừa phải vì họ thường có thu nhập khoảng 5tr-15tr một tháng. 
+* Những người sử dụng moto, đi phượt hoặc thường xuyên di chuyển bằng xe gán máy trên đoạn đường dài: Thích hợp với loại mũ Full Head. Tuy giá thành cao nhưng với thu nhập của họ cùng tính năng của mũ khiến họ yên tâm hơn trên những chuyến đi xa.
+* Người thân của người đi xe gán máy: Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10tr một tháng trở lên.
 
 ### **Chức năng**
-* Tự động gửi tín hiệu cho người thân khi gặp sự cố (tai nạn, va chạm…): Khi mũ được đội lên đầu người sử dụng, nếu bị chịu một lực tác động nhất định, mũ sẽ tự động xác nhận là xảy ra sự cố để báo về điện thoại được liên kết.
+* Tự động gửi tín hiệu cho người thân khi gặp sự cố (tai nạn, va chạm…): Khi mũ được đội lên đầu người sử dụng, nếu bị va chạm xác định gây nguy hiểm, mũ sẽ tự động xác nhận là xảy ra sự cố để báo về điện thoại được liên kết thông qua SIM được gắn trên mũ và thông qua điện thoại được kết nối.
 * Kết nối với điện thoại thông minh.
   - Kết nối với bản đồ để tìm và dẫn đường bằng giọng nói.
   - Đo tốc độ và cảnh báo nếu tới ngưỡng nguy hiểm.
@@ -35,3 +37,12 @@ Người tham gia giao thông bằng các loại xe hai bánh.
   - Tránh kẹt xe: Cập nhật tình hình giao thông trong khu vực để thông báo khu vực kẹt xe đến người dùng.
 * Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng.
 * Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
+
+### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
+#### **I. MẶT KỸ THUẬT**
+##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
+- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. [_ Bấm vào đây!_](https://en.wikipedia.org/wiki/Head_injury_criterion)
+
+##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
+- Chúng tôi đã đánh giá tỉ lệ va chạm khi xảy ra trên các vùng của mũ để đảm bảo cho các thiết bị khi va chạm sẽ ít bị ảnh hưởng nhất. 
+Đây là nguyên cứu về tỉ lệ được chứng minh. [_ Bấm vào đây!_](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
