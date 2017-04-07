@@ -47,6 +47,13 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Người thân của người đi xe gán máy: Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10tr một tháng trở lên.
 
 ### **Chức năng**
+
+<p align="center">
+  <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17792412_646130398908109_1859550620_n.jpg?oh=af9d3199b995b42dde876ebcc62e8569&oe=58EAAC3D">  
+<p align="center">
+<b>Hình 4: Các chức năng</b><br>
+</p>
+
 * Tự động gửi tín hiệu cho người thân khi gặp sự cố (tai nạn, va chạm…): Khi mũ được đội lên đầu người sử dụng, nếu bị va chạm xác định gây nguy hiểm, mũ sẽ tự động xác nhận là xảy ra sự cố để báo về điện thoại được liên kết thông qua SIM được gắn trên mũ và thông qua điện thoại được kết nối.
 * Kết nối với điện thoại thông minh.
   - Kết nối với bản đồ để tìm và dẫn đường bằng giọng nói.
@@ -73,11 +80,11 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 #### **IV.	Auto Signal System**
 *	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
-*	Nội dung tin nhắn sẽ bao gồm:
-   -	Vị trí của người sử dụng gặp sự cố theo GPS.
-   -	Thời gian thực được lưu lại.
-   -	SOS
-   -	Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
+* Nội dung tin nhắn sẽ bao gồm:
+  - Vị trí của người sử dụng gặp sự cố theo GPS.
+  - Thời gian thực được lưu lại.
+  - SOS
+  - Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
 
 #### **V.	Smart Warning**
 * Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
@@ -126,7 +133,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src=http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png>  
 <p align="center">
-<b>Hình 4: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
+<b>Hình 5: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
