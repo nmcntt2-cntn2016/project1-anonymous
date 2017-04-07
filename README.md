@@ -86,7 +86,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
   - SOS
   - Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
 
-#### **V.	Cảnh báo thông minh**
+#### **V.	Cảnh báo tốc độ**
 * Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
 
 #### **VI.	Trợ lý giao thông**
