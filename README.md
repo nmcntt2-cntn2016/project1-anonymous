@@ -99,6 +99,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1311fccb6d619c35edaac479d41079a9fbb7907)
 
+Trong đó: t1: Thời gian bắt đầu xảy ra va chạm. (s)
+          t2: Thời gian kết thúc va chạm. (s)
+
 [ Bấm vào đây!](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
 ##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
