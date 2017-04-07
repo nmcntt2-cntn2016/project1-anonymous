@@ -54,17 +54,6 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <b>Hình 4: Các chức năng</b><br>
 </p>
 
-* Tự động gửi tín hiệu cho người thân khi gặp sự cố (tai nạn, va chạm…): Khi mũ được đội lên đầu người sử dụng, nếu bị va chạm xác định gây nguy hiểm, mũ sẽ tự động xác nhận là xảy ra sự cố để báo về điện thoại được liên kết thông qua SIM được gắn trên mũ và thông qua điện thoại được kết nối.
-* Kết nối với điện thoại thông minh.
-  - Kết nối với bản đồ để tìm và dẫn đường bằng giọng nói.
-  - Đo tốc độ và cảnh báo nếu tới ngưỡng nguy hiểm.
-  - Hỗ trợ trả lời điện thoại:
-  - Trả lời cuộc gọi: Khi có cuộc gọi, mũ sẽ báo cho người dùng để người dùng quyết định sẽ trả lời hay không trả lời. Nếu cần thiết, mũ sẽ thực hiện chức năng trả lời tự động.
-  - Đọc tin nhắn: Người dùng có thể chọn có đọc tin nhắn hay là không. Nếu chọn trả lời tin nhắn, mũ bảo hiểm sẽ tự động đọc tin nhắn cho người dùng.
-  - Tránh kẹt xe: Cập nhật tình hình giao thông trong khu vực để thông báo khu vực kẹt xe đến người dùng.
-* Ghi lại vị trí và tích hợp camera hành trình: Có thẻ nhớ để quay video, tự động ghi hình mỗi 5 phút sau cùng.
-* Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
-
 ### **Chi tiết về các chức năng**
 #### **I.	Kích hoạt thiết bị**
 *	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
@@ -76,7 +65,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
   - Va chạm nhiều lần với lực xác định.
 
 #### **III.	 Định vị mũ**
-*	Mũ được kết hợp với thiết bị định vị GPS. 
+*	Mũ được kết hợp với thiết bị định vị GPS. Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
 #### **IV.	Hệ thống tín hiệu tự động**
 *	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
@@ -87,7 +76,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
   - Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
 
 #### **V.	Cảnh báo tốc độ**
-* Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
+* Khi người điều khiển xe chạy đến một tốc độ nguy hiểm (do người dùng đặt) thì mũ sẽ cảnh báo người dùng.
 
 #### **VI.	Trợ lý giao thông**
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
