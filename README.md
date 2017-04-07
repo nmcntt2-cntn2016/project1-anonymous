@@ -66,7 +66,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
 ### **Chi tiết về các chức năng**
-#### **I.	Enabling Application**
+#### **I.	Kích hoạt thiết bị**
 *	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
 
 #### **II.	Cảm biến va chạm**
@@ -78,7 +78,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 #### **III.	 Định vị mũ**
 *	Mũ được kết hợp với thiết bị định vị GPS. 
 
-#### **IV.	Auto Signal System**
+#### **IV.	Hệ thống tín hiệu tự động**
 *	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
 * Nội dung tin nhắn sẽ bao gồm:
   - Vị trí của người sử dụng gặp sự cố theo GPS.
@@ -86,10 +86,10 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
   - SOS
   - Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
 
-#### **V.	Smart Warning**
+#### **V.	Cảnh báo thông minh**
 * Khi người điều khiển xe chạy đến một tốc độ nguy hiểm thì mũ sẽ cảnh báo người dùng.
 
-#### **VI.	Traffic Helper**
+#### **VI.	Trợ lý giao thông**
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
 *	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin thời gian thực lấy trên ???
 
