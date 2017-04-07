@@ -95,7 +95,11 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
-- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. [ Bấm vào đây!](https://en.wikipedia.org/wiki/Head_injury_criterion)
+- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. 
+
+![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1311fccb6d619c35edaac479d41079a9fbb7907)
+
+[ Bấm vào đây!](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
 ##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
 - Chúng tôi đã đánh giá tỉ lệ va chạm khi xảy ra trên các vùng của mũ để đảm bảo cho các thiết bị khi va chạm sẽ ít bị ảnh hưởng nhất. 
