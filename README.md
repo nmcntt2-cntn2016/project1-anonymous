@@ -91,7 +91,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 #### **VI.	Trợ lý giao thông**
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
-*	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin thời gian thực lấy trên ???
+*	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin trên điện thoại.
 
 #### **VII.	Tự động trả lời điện thoại và tin nhắn.**
 *	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
