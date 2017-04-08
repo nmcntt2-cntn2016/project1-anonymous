@@ -90,6 +90,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **Bản thiết kế**
 ### **Thông số kĩ thuật**
 ### **Quy trình vận hành**
+### **Sơ lược về ứng dụng điện thoại**
 ### **Hướng dẫn sử dụng**
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
