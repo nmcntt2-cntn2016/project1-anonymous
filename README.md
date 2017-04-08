@@ -42,9 +42,9 @@ Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã 
 Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt hại về con người. Đồng thời hỗ trợ người điều khiển xe trong quá trình tham gia giao thông.
 
 ### **Đối tượng hướng đến**
-* Người dùng phổ thông: Thích hợp với loại ½ head hoặc ¾ head. Họ thường xuyên di chuyển quảng đường từ ngắn đến trung bình. Những người này cần loại mũ gọn nhẹ, có những chức năng cơ bản, giá thành vừa phải vì họ thường có thu nhập khoảng 5tr-15tr một tháng. 
+* Người dùng phổ thông: Thích hợp với loại ½ head hoặc ¾ head. Họ thường xuyên di chuyển quảng đường từ ngắn đến trung bình. Những người này cần loại mũ gọn nhẹ, có những chức năng cơ bản, giá thành vừa phải vì họ thường có thu nhập khoảng 5 triệu đến 15 triệu một tháng. 
 * Những người sử dụng moto, đi phượt hoặc thường xuyên di chuyển bằng xe gán máy trên đoạn đường dài: Thích hợp với loại mũ Full Head. Tuy giá thành cao nhưng với thu nhập của họ cùng tính năng của mũ khiến họ yên tâm hơn trên những chuyến đi xa.
-* Người thân của người đi xe gán máy: Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10tr một tháng trở lên.
+* Người thân của người đi xe gán máy: Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10 triệu một tháng trở lên.
 
 ### **Chức năng**
 
