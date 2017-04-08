@@ -1,7 +1,7 @@
 # _**MBH++**_  - *Anonymous* <h1> 
  *created by GitHub Classroom* 
  
- [_Trang chủ Team_](https://nmcntt2-anonymous.github.io/)
+ [_Trang chủ Dự án_](https://nmcntt2-anonymous.github.io/)
  
  
 ## **Danh sách thành viên**
@@ -80,7 +80,6 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 #### **VI.	Trợ lý giao thông**
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng google maps để tìm đường đi.
-*	Thiết bị sẽ tự động cảnh báo người dùng khi đi vào đường có kẹt xe dựa vào thông tin trên điện thoại.
 
 #### **VII.	Tự động trả lời điện thoại và tin nhắn.**
 *	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
@@ -97,7 +96,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
 - Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. 
 
+<p> align="center">
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1311fccb6d619c35edaac479d41079a9fbb7907)
+<\p>
 
 Trong đó: 
 
@@ -172,3 +173,7 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 - Đây là phân khúc thị trường lớn. Người dùng phổ thông đa phần có thu nhập trung bình và nhu cầu sử dụng các tính năng của mũ không quá lớn. Chúng tôi tập trung chủ yếu phát triển hệ thống thông báo khi có sự cố xảy ra. Vậy nên giá thành của mũ khá phải chăng, phù hợp với hầu hết người điều khiển xe máy hiện nay. 
 
 => Xu hướng chung của người dân là quan tâm bảo vệ sức khỏe, tính mạng của mình và người thân. Vậy nên, sản phẩm ra đời sẽ tạo ra một cuộc cách mạng trong việc sử dụng các sản phẩm thông minh có giá vừa phải để chăm sóc và bảo vệ sức khỏe, tính mạng. 
+
+##### **4. Tầm nhìn**
+     Theo kế hoạch, đến năm 2020, công ty sẽ cung cấp cho 80% người điều khiển xe máy tại Việt Nam mũ bảo hiểu thông minh do team chúng tôi phát triển. Giá thành sản phẩm ngày càng phù hợp với người dùng phổ thông. Đặc biệt, sản xuất ra một số loại mũ siêu bền dành cho tầng lớp thượng lưu. 
+     Song song với chiếm lĩnh thị trường Việt, chúng tôi sẽ hướng đến phân phối sản phẩm sang các nước Đông Nam Á lân cận như Campuchia, Thái Lan, Lào, .... Đồng thời sẽ tiến vào các thị trường khó tính như: Nga, Châu Âu, Hoa Kì, Nhật Bản. 
