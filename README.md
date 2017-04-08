@@ -96,9 +96,9 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
 - Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. 
 
-<p> align="center">
+<p align="center">
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1311fccb6d619c35edaac479d41079a9fbb7907)
-<\p>
+
 
 Trong đó: 
 
@@ -175,5 +175,6 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 => Xu hướng chung của người dân là quan tâm bảo vệ sức khỏe, tính mạng của mình và người thân. Vậy nên, sản phẩm ra đời sẽ tạo ra một cuộc cách mạng trong việc sử dụng các sản phẩm thông minh có giá vừa phải để chăm sóc và bảo vệ sức khỏe, tính mạng. 
 
 ##### **4. Tầm nhìn**
-     Theo kế hoạch, đến năm 2020, công ty sẽ cung cấp cho 80% người điều khiển xe máy tại Việt Nam mũ bảo hiểu thông minh do team chúng tôi phát triển. Giá thành sản phẩm ngày càng phù hợp với người dùng phổ thông. Đặc biệt, sản xuất ra một số loại mũ siêu bền dành cho tầng lớp thượng lưu. 
-     Song song với chiếm lĩnh thị trường Việt, chúng tôi sẽ hướng đến phân phối sản phẩm sang các nước Đông Nam Á lân cận như Campuchia, Thái Lan, Lào, .... Đồng thời sẽ tiến vào các thị trường khó tính như: Nga, Châu Âu, Hoa Kì, Nhật Bản. 
+ Theo kế hoạch, đến năm 2020, công ty sẽ cung cấp cho 80% người điều khiển xe máy tại Việt Nam mũ bảo hiểu thông minh do team chúng tôi phát triển. Giá thành sản phẩm ngày càng phù hợp với người dùng phổ thông. Đặc biệt, sản xuất ra một số loại mũ siêu bền dành cho tầng lớp thượng lưu. 
+ 
+ Song song với chiếm lĩnh thị trường Việt, chúng tôi sẽ hướng đến phân phối sản phẩm sang các nước Đông Nam Á lân cận như Campuchia, Thái Lan, Lào, .... Đồng thời sẽ tiến vào các thị trường khó tính như: Nga, Châu Âu, Hoa Kì, Nhật Bản. 
