@@ -102,11 +102,20 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 Trong đó: t1: Thời gian bắt đầu xảy ra va chạm. (s)
           t2: Thời gian kết thúc va chạm. (s)
 
-[ Bấm vào đây!](https://en.wikipedia.org/wiki/Head_injury_criterion)
+[ Xem chi tiết](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
 ##### **2. Tại sao lại đặt các thiết bị ở những vị trí đó trên mũ?**
 - Chúng tôi đã đánh giá tỉ lệ va chạm khi xảy ra trên các vùng của mũ để đảm bảo cho các thiết bị khi va chạm sẽ ít bị ảnh hưởng nhất. 
-Đây là nguyên cứu về tỉ lệ được chứng minh. [ Bấm vào đây!](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
+Đây là nguyên cứu về tỉ lệ được chứng minh. 
+
+<p align="center">
+  <img src="http://bikegearup.weebly.com/uploads/6/1/2/5/61250925/2104854_orig.jpg">  
+<p align="center">
+<b>Hình 4: Tỉ lệ va đập trên mũ</b><br>
+</p>
+
+
+[ Xem chi tiết](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
 
 ##### **3. Tại sao lại chọn các mẫu mũ bảo hiểm như vậy?**
 -	Sau khi nghiên cứu các đặc điểm người tiêu dùng mũ bảo hiểm ở Việt Nam, chúng tôi quyết định chọn 3 kiểu dáng mà người tiêu dùng ưu chuộng nhất.
@@ -129,7 +138,7 @@ Trong đó: t1: Thời gian bắt đầu xảy ra va chạm. (s)
 <p align="center">
   <img src=http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png>  
 <p align="center">
-<b>Hình 5: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
+<b>Hình 6: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
