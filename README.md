@@ -101,7 +101,8 @@ Thông số chung:
 
 Loại mũ | Thông số riêng 
 --------|----------------
-1/2 Head | Kích thước 16x21x12cm; Cân nặng: 0.6kg 
+1/2 Head | Kích thước 16x21x12cm
+           Cân nặng: 0.6kg 
            
            
 ### **Quy trình vận hành**
