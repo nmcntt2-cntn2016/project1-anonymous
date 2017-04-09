@@ -98,8 +98,9 @@ Thông số chung:
 * Tín hiệu đèn LED: hoạt động, đang sạc, pin yếu
 * Tương thích: Bluetooth 4.0 trờ lên, iOS 8.4 trở lên, Android 3.2.1 trở lên.
 
+Thông số riêng:
 
-Loại mũ | Thông số riêng 
+Loại mũ | Thông số 
 --------|----------------
 1/2 Head |* Kích thước 16x21x12cm <br>* Cân nặng: 0,6kg
 3/4 Head |* Kích thước: 25 x 24 x 23 cm. <br>* Cân nặng: 1.0kg. <br>* Độ nhạy loa: 100 dB.<br>* Dải tần Microphone: 100Hz - 20KHz <br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
