@@ -224,9 +224,12 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 
 ### **MỞ RỘNG**
 #### **I. Các môn học cần thiết**
-- Đồ họa
+- Thiết kế giao diện
 - Lập trình nhúng
-- Thiết kế ứng dụng điện thoại
+- Phát triển phần mềm cho thiết bị di động.
+- Cơ sở dữ liệu
+- Phương thức lập trình hướng đối tượng.
+- Phát triển web.
 
 #### **II. Các trang web tham khảo**
 
