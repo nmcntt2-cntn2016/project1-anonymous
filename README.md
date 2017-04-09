@@ -83,8 +83,8 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ##### **1. Tìm đường**
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng "Bản đồ" trên ứng dụng điện thoại để tìm đường đi.
 
-##### **2. Tự động trả lời điện thoại và tin nhắn.**
-*	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. 
+##### **2. Tự động trả lời điện thoại và đọc tin nhắn.**
+*	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. Hiện tại, mũ chỉ mới đáp ứng 2 ngôn ngữ: Tiếng Việt và Tiếng Anh.
 
 #### **VIII.	Camera hành trình**
 *	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
@@ -94,6 +94,46 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **Quy trình vận hành**
 ### **Sơ lược về ứng dụng điện thoại**
 ### **Hướng dẫn sử dụng**
+#### **I.Thiết đặt lần đầu**
+* Bước 1: Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
+* Bước 2: Bật Bluetooth trên điện thoại. 
+* Bước 3: Mở app trên điện thoại, mở hambergur menu (hình 3 gạch ở góc trái trên). 
+* Bước 4: Chọn nút thêm (hình dấu cộng). 
+* Bước 5: Nhập mã PIN (được ghi bên trong mũ). 
+* Bước 6: Thiết lập: đặt tên mũ, các chức năng khác (theo hướng dẫn của app). 
+* Bước 7 (tùy chọn): Chỉnh lại mã PIN. 
+
+##### **II. Sử  dụng chức năng cảnh báo tốc độ:**
+* Cần bật chức năng cảnh báo tốc độ (trong phần cài đặt). 
+* Khi người dùng đội mũ bảo hiểm và chạy quá tốc độ được quy định (tùy thuộc người dùng đang ở đường nào và chỉnh tốc độ tối đa là bao nhiêu) thì mũ tự động thông báo mỗi 5 phút một lần đến khi người đó chạy đúng tốc độ. 
+
+##### **III. Phát hiện va chạm và gửi tín hiệu khẩn cấp**
+* Luôn bật, có thể chỉnh một vài thông số trong phần cài đặt như là: 
+  - Mức độ để mũ kích hoạt việc gửi tín hiệu khẩn cấp. 
+  - Số điện thoại người nhận tín hiệu khẩn cấp. 
+  - Gửi tín hiệu khẩn cấp qua kênh nào. Có 2 kênh cho người dùng tự chọn. 
+* Khi có va chạm thì mũ sẽ tự động thực hiện các bước: 
+  - Bước 1: Đánh giá va chạm (dựa vào các dữ liệu thu được từ cảm biến gia tốc kế, vận tốc,...). 
+  - Bước 2: Nếu va chạm nguy hiểm (lớn hơn hoặc bằng mức độ được cài đặt) thì mũ sẽ gửi tín hiệu theo các kênh được thiết đặt (và mũ sẽ sáng đèn đỏ để báo hiệu là bước gửi tín hiệu sắp được thực hiện). 
+  - Bước 3: Trong 10 giây, nếu người dùng không gặp nguy hiểm thì người dùng có thể bấm vào nút nguồn 2 lần liên tiếp, khi đó mũ sẽ không gửi tín hiệu. 
+  - Bước 4: Mũ sẽ gửi tín hiệu S.O.S. theo thứ tự danh sách người nhận trong cài đặt. 
+  
+##### **IV. Trợ lý giao thông**
+###### **1. Chỉ đường:**
+* Bước 1: Kết nối mũ với điện thoại, mở app điện thoại, vào chức năng bản đồ. 
+* Bước 2: Chọn địa điểm đến, ứng dụng sẽ đưa ra những lộ trình để người dùng lựa chọn. 
+* Bước 3: Sau khi chọn lộ trình chọn nút bắt đầu di chuyển, khi đó lộ trình sẽ được gửi qua mũ và mũ sẽ ra hiệu cách di chuyển. 
+
+###### **2. Nghe điện thoại:**
+* Trong phần cài đặt sẽ có 2 chế độ: 
+  - Tự động trả lời (bằng một tin nhắn hoặc một đoạn ghi âm sẵn, lưu lại thông điệp của người gửi). 
+  - Hỏi người dùng xem muốn trả lời hay không (dùng giọng nói hoặc nút bấm trên mũ). 
+* Khi có cuộc gọi tới thì nếu người dùng đang đội mũ và bật chức năng tự động trả lời thì app trên điện thoại sẽ giúp trả lời tự động và có thể lấy thông điệp nếu cần. Còn khi người dùng chọn chức năng thứ 2 thì mũ sẽ đọc tên người gọi (hoặc số) rồi hỏi là muốn nghe hay không. Nếu không thì nói “không” để ra lệnh cho mũ ngắt cuộc gọi (hoặc trả lời tự động), và nếu muốn nghe thì nói “có”. Hoặc ngoài ra có thể bấm nút 2 lần để không nghe máy và 1 lần để nghe máy. Khi nghe điện thoại nên ngừng xe lại. 
+
+###### **3. Đọc tin nhắn:**
+* Trong phần cài đặt, người dùng có thể chọn bật chế độ nhận tín hiệu khi có tin nhắn tới.  
+* Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. 
+
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
