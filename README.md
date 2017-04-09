@@ -119,7 +119,7 @@ Một số hình ảnh về ứng dụng điện thoại
 
 
 ### **Hướng dẫn sử dụng**
-**Các chế độ hoạt động*
+**Các chế độ hoạt động**
 
 * Mũ có 3 chế độ: 
  - Tắt 
@@ -194,7 +194,7 @@ Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công vi�
 ##### **V. Camera hành trình**
 * Camera hành trình sẽ được kích hoạt khi người dùng đội nón bảo hiểm. Trên đường đi nếu có tai nạn xảy ra hoặc nếu người dùng có yêu cầu (bấm nút trên nón 2 lần) thì đoạn video sẽ được cắt 5 phút cuối và lưu lại còn không thì khi bộ nhớ đầy đoạn video cũ nhất sẽ bị xóa.  
 
-* Để xem lại video thì người dùng có thể dùng app điện thoại, trong phần video. Lưu ý cần phải kết nối với mũ thì mới có thể xem. Người dùng cũng có thể tải video về điện thoại và xóa đoạn video đó trên mũ 
+* Để xem lại video thì người dùng có thể dùng app điện thoại, trong phần video. Lưu ý cần phải kết nối với mũ thì mới có thể xem. Người dùng cũng có thể tải video về điện thoại và xóa đoạn video đó trên mũ.
 
 * Đoạn video sẽ được lưu cùng với vị trí hiện tại, thời gian và vận tốc, người dùng có thể xem thông tin này trong app.
 
