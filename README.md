@@ -260,7 +260,7 @@ Giá bán (VNĐ) | 8.500.000 | 1.500.000 | 750.000
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
-- Chúng tôi sau khi nguyên cứu đã tìm ra được một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. 
+- Chúng tôi sau khi tìm hiểu đã phát hiện một công thức tính toán độ va chạm gây nguy hiểm cho con người. Dưới đây là công thức được sử dụng và nguồn dẫn của công thức. 
 
 
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/a1311fccb6d619c35edaac479d41079a9fbb7907)
