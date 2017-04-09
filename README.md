@@ -68,7 +68,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 *	Mũ được kết hợp với thiết bị định vị GPS. Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
 #### **IV.	Gửi tín hiệu khẩn cấp**
-*	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
+*	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại đã được đăng kí khi nhận được tìn hiệu từ cảm biến va chạm.
 * Nội dung tin nhắn sẽ bao gồm:
   - Vị trí của người sử dụng gặp sự cố theo GPS.
   - Thời gian thực được lưu lại.
