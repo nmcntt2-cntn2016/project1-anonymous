@@ -377,3 +377,6 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 [https://en.wikipedia.org/wiki/Head_injury_criterion](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
 #### **III. Poster**
+
+<p align="center">
+  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t34.0-12/17841670_1229055277213828_182241531_n.jpg?oh=428dbb5e1a58b31b1f0d3d9883578191&oe=58ED4A3E">  
