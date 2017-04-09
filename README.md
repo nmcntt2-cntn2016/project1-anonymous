@@ -221,3 +221,21 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
  Theo kế hoạch, đến năm 2020, công ty sẽ cung cấp cho 80% người điều khiển xe máy tại Việt Nam mũ bảo hiểu thông minh do team chúng tôi phát triển. Giá thành sản phẩm ngày càng phù hợp với người dùng phổ thông. Đặc biệt, sản xuất ra một số loại mũ siêu bền dành cho tầng lớp thượng lưu. 
  
  Song song với chiếm lĩnh thị trường Việt, chúng tôi sẽ hướng đến phân phối sản phẩm sang các nước Đông Nam Á lân cận như Campuchia, Thái Lan, Lào, .... Đồng thời sẽ tiến vào các thị trường khó tính như: Nga, Châu Âu, Hoa Kì, Nhật Bản. 
+
+### **MỞ RỘNG**
+#### **I. Các môn học cần thiết**
+- Đồ họa
+- Lập trình nhúng
+- Thiết kế ứng dụng điện thoại
+
+#### **II. Các trang web tham khảo**
+
+[http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet](http://bikegearup.weebly.com/blog/the-important-in-wearing-motorcycle-helmet)
+
+[http://www.hvcsnd.edu.vn/vn/Acedemy/Thong-tin-An-toan-giao/206/6344/Tinh-hinh-trat-tu-an-toan-giao-thong-nam-2016-tren-pham-vi-toan-quoc.aspx](http://www.hvcsnd.edu.vn/vn/Acedemy/Thong-tin-An-toan-giao/206/6344/Tinh-hinh-trat-tu-an-toan-giao-thong-nam-2016-tren-pham-vi-toan-quoc.aspx)
+
+[http://news.zing.vn/oxfam-nguoi-giau-kiem-1-ngay-bang-nguoi-ngheo-kiem-10-nam-post694593.html](http://news.zing.vn/oxfam-nguoi-giau-kiem-1-ngay-bang-nguoi-ngheo-kiem-10-nam-post694593.html)
+
+[http://vnexpress.net/tin-tuc/oto-xe-may/tuong-lai-nao-cho-xe-may-tai-viet-nam-3383030.html](http://vnexpress.net/tin-tuc/oto-xe-may/tuong-lai-nao-cho-xe-may-tai-viet-nam-3383030.html)
+
+[https://en.wikipedia.org/wiki/Head_injury_criterion](https://en.wikipedia.org/wiki/Head_injury_criterion)
