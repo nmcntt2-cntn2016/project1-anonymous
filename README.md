@@ -111,7 +111,8 @@ Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Đ
            
 ### **Quy trình vận hành**
 ### **Sơ lược về ứng dụng điện thoại**
-Một số hình ảnh về ứng dụng điện thoại
+<p> align="center"> Một số hình ảnh về ứng dụng điện thoại
+</p>
 
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17857956_610536882482385_928776943_n.jpg?oh=2c3141fd1b115217f0e85ce02ae113b2&oe=58EBC371">
@@ -122,9 +123,9 @@ Một số hình ảnh về ứng dụng điện thoại
 **Các chế độ hoạt động**
 
 * Mũ có 3 chế độ: 
- - Tắt 
- - Chờ 
- - Hoạt động 
+  - Tắt 
+  - Chờ 
+  - Hoạt động 
 
 Khi mới mua về thì mũ ở chế độ tắt, nếu người dùng muốn bật mũ từ chế độ này chỉ cần giữ nút nguồn 3s thì mũ sẽ chuyển sang chế độ chờ. 
 
@@ -175,21 +176,21 @@ Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s 
 
 ###### **3. Đọc tin nhắn:**
 * Trong phần cài đặt, người dùng có thể chọn bật chế độ nhận tín hiệu khi có tin nhắn tới.  
-* Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. Hoặc người dùng có thể tắt chức năng này trong phần cài đặt bằng cách chọn không đọc tin nhắn 
+* Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. Hoặc người dùng có thể tắt chức năng này trong phần cài đặt bằng cách chọn không đọc tin nhắn.
 
 ###### **4. Nhắc nhở:**
 
 Cách đặt nhắc nhở: 
 
-* **Bước 1:** Mở app, và phần nhắc nhở, chọn nút thêm (hình dấu “+”) 
-* **Bước 2:** Chọn địa điểm, thời gian, và nội dung công việc cần nhắc nhở 
-* **Bước 3:** Đợi đồng bộ với mũ (nếu chưa kết nối với mũ) 
+* **Bước 1:** Mở app, và phần nhắc nhở, chọn nút thêm (hình dấu “+”).
+* **Bước 2:** Chọn địa điểm, thời gian, và nội dung công việc cần nhắc nhở.
+* **Bước 3:** Đợi đồng bộ với mũ (nếu chưa kết nối với mũ).
 
-Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công việc cần làm tại địa điểm đó. Rồi khoảng 1 km thì mũ sẽ thông báo lại và khi người dùng thực hiện xong công việc thì có thể bấm nút hoàn thành trong app điện thoại, nếu không mũ sẽ thông báo thêm 1 lần nữa khi người đó rời khỏi địa điểm đó 
+Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công việc cần làm tại địa điểm đó. Rồi khoảng 1 km thì mũ sẽ thông báo lại và khi người dùng thực hiện xong công việc thì có thể bấm nút hoàn thành trong app điện thoại, nếu không mũ sẽ thông báo thêm 1 lần nữa khi người đó rời khỏi địa điểm đó.
 
 ###### **5. Tìm mũ**
-* Bật app trên điện thoại, vào phần tìm mũ, khi đó app sẽ cho biết  vị trí lần cuối mà mũ còn kết nối với điện thoại 
-* Nếu trong phạm vi 40m thì có thể bật tính năng dò bằng bluetooth khi đó, app sẽ cho biết khoảng cách tương đối tới mũ và người dùng có thể tìm bằng cách di chuyển theo hướng cho khoảng cách này giảm đi
+* Bật app trên điện thoại, vào phần tìm mũ, khi đó app sẽ cho biết  vị trí lần cuối mà mũ còn kết nối với điện thoại.
+* Nếu trong phạm vi 40m thì có thể bật tính năng dò bằng bluetooth khi đó, app sẽ cho biết khoảng cách tương đối tới mũ và người dùng có thể tìm bằng cách di chuyển theo hướng cho khoảng cách này giảm đi.
 
 ##### **V. Camera hành trình**
 * Camera hành trình sẽ được kích hoạt khi người dùng đội nón bảo hiểm. Trên đường đi nếu có tai nạn xảy ra hoặc nếu người dùng có yêu cầu (bấm nút trên nón 2 lần) thì đoạn video sẽ được cắt 5 phút cuối và lưu lại còn không thì khi bộ nhớ đầy đoạn video cũ nhất sẽ bị xóa.  
@@ -208,7 +209,7 @@ Gửi tín hiệu khẩn cấp| x | x | x
 Cảnh báo tốc độ | x | x | o
 Trợ lý giao thông | x | x | o
 Camera hành trình | x | x | o
-Giá bán | 8.500.000 | 1.500.000 | 750.000
+Giá bán (VNĐ) | 8.500.000 | 1.500.000 | 750.000
 
 
 
@@ -223,11 +224,11 @@ Giá bán | 8.500.000 | 1.500.000 | 750.000
 
 Trong đó: 
 
-          t1: Thời gian bắt đầu xảy ra va chạm. (s)
+          t1: Thời gian bắt đầu xảy ra va chạm (s).
 
-          t2: Thời gian kết thúc va chạm. (s)
+          t2: Thời gian kết thúc va chạm. (s).
           
-          a(t): gia tốc tại thời điểm t
+          a(t): gia tốc tại thời điểm t.
 
 [ Xem chi tiết](https://en.wikipedia.org/wiki/Head_injury_criterion)
 
@@ -302,10 +303,10 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
 
 ### **MỞ RỘNG**
 #### **I. Các môn học liên quan đến CNTT cần thiết**
-- Thiết kế giao diện
-- Lập trình nhúng
+- Thiết kế giao diện.
+- Lập trình nhúng.
 - Phát triển phần mềm cho thiết bị di động.
-- Cơ sở dữ liệu
+- Cơ sở dữ liệu.
 - Phương thức lập trình hướng đối tượng.
 - Phát triển web.
 
