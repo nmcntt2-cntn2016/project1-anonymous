@@ -17,7 +17,7 @@ Trần Hoài Nam | 1612403 | Thiết kế mũ
 Sản phẩm của nhóm là mũ bảo hiểm thông minh có khả năng gửi tín hiệu cho người thân khi xảy ra sự cố, bên cạnh đó còn tích hợp camera hành trình và có thể kết nối với điện thoại thông minh để thực hiện một số các chức năng đặc biệt khác.
 
 ### **Thực trạng**
-Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra 21 589 vụ tai nạn, làm chết 8685 người, bị thương 19280 người. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
+Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra 21 589 vụ tai nạn, làm chết 8 685 người, bị thương 19 280 người. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd2.png>  
@@ -55,10 +55,10 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 </p>
 
 ### **Chi tiết về các chức năng**
-#### **I.	Kích hoạt thiết bị**
+#### **I.	Nhận diện người dùng**
 *	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
 
-#### **II.	Cảm biến va chạm**
+#### **II.	Phát hiện va chạm**
 *	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
 * Cách xác định va chạm:
   - Va chạm 1 lần với lực xác định.
@@ -67,13 +67,14 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 #### **III.	 Định vị mũ**
 *	Mũ được kết hợp với thiết bị định vị GPS. Định vị và tự động ghi lại vị trí sau một khoảng thời gian, thông qua đó biết được vị trí xe khi cần thiết.
 
-#### **IV.	Hệ thống tín hiệu tự động**
+#### **IV.	Gửi tín hiệu khẩn cấp**
 *	Trung tâm xử lý sẽ gửi tin nhắn đến các số điện thoại được đăng kí trước khi nhận được tìn hiệu từ cảm biến va chạm.
 * Nội dung tin nhắn sẽ bao gồm:
   - Vị trí của người sử dụng gặp sự cố theo GPS.
   - Thời gian thực được lưu lại.
   - SOS
-  - Chỉ số HIC và tốc độ xe tại thời điểm đó.-	Hình ảnh cắt từ camera (nếu có Internet).
+  - Chỉ số HIC và tốc độ xe tại thời điểm đó.
+  -	Hình ảnh cắt từ camera (nếu có Internet).
 
 #### **V.	Cảnh báo tốc độ**
 * Khi người điều khiển xe chạy đến một tốc độ nguy hiểm (do người dùng đặt) thì mũ sẽ cảnh báo người dùng.
