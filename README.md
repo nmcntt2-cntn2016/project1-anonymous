@@ -119,18 +119,35 @@ Một số hình ảnh về ứng dụng điện thoại
 
 
 ### **Hướng dẫn sử dụng**
+**Các chế độ hoạt động*
+
+* Mũ có 3 chế độ: 
+ - Tắt 
+ - Chờ 
+ - Hoạt động 
+
+Khi mới mua về thì mũ ở chế độ tắt, nếu người dùng muốn bật mũ từ chế độ này chỉ cần giữ nút nguồn 3s thì mũ sẽ chuyển sang chế độ chờ. 
+
+Khi ở chế độ chờ mũ chỉ chạy cảm biến nhận diện người dùng, khi đó nếu người dùng đội mũ lên thì lập tức mũ sẽ chuyển sang chế độ hoạt động. Ở chế độ này sẽ có một đèn LED trên nón sáng  nhấp nháy để báo là đang ở chế độ chờ.
+
+Ngược lại thì khi mũ đang hoạt động người dùng có thể chuyển sang chế độ chờ bằng cách cởi mũ ra. Tuy nhiên để tránh tình huống khi tai nạn xảy ra mũ bị văng ra rồi mới đập thì mũ sẽ đợi khoảng 100ms rồi mới chuyển sang chế độ chờ hoặc nếu mũ đang thực hiện một số chức năng (như gửi tín hiệu khẩn cấp) thì mũ sẽ thực hiện cho xong rồi mới chuyển sang chế độ chờ. 
+
+Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s nếu mũ đang thực hiện gửi tín hiệu khẩn cấp thì mũ sẽ thực hiện cho xong mới tắt.
+
+Ở chế độ chờ mũ vẫn sẽ dùng pin nhưng ở một mức rất thấp nên, người dùng không nên chuyển về chế độ tắt vì khi mũ khởi động sẽ khá lâu và người dùng phải khởi động nón một cách thủ công. 
+
 #### **I. Thiết đặt lần đầu**
-* Bước 1: Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
-* Bước 2: Bật Bluetooth trên điện thoại. 
-* Bước 3: Mở app trên điện thoại, mở hambergur menu (hình 3 gạch ở góc trái trên). 
-* Bước 4: Chọn nút thêm (hình dấu cộng). 
-* Bước 5: Nhập mã PIN (được ghi bên trong mũ). 
-* Bước 6: Thiết lập: đặt tên mũ, các chức năng khác (theo hướng dẫn của app). 
-* Bước 7 (tùy chọn): Chỉnh lại mã PIN. 
+* **Bước 1:** Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
+* **Bước 2:** Bật Bluetooth trên điện thoại. 
+* **Bước 3:** Mở app trên điện thoại, mở hambergur menu (hình 3 gạch ở góc trái trên). 
+* **Bước 4:** Chọn nút thêm (hình dấu cộng). 
+* **Bước 5:** Nhập mã PIN (được ghi bên trong mũ). 
+* **Bước 6:** Thiết lập: đặt tên mũ, các chức năng khác (theo hướng dẫn của app). 
+* **Bước 7 (tùy chọn):** Chỉnh lại mã PIN. 
 
 ##### **II. Sử  dụng chức năng cảnh báo tốc độ:**
 * Cần bật chức năng cảnh báo tốc độ (trong phần cài đặt). 
-* Khi người dùng đội mũ bảo hiểm và chạy quá tốc độ được quy định (tùy thuộc người dùng đang ở đường nào và chỉnh tốc độ tối đa là bao nhiêu) thì mũ tự động thông báo mỗi 5 phút một lần đến khi người đó chạy đúng tốc độ. 
+* Khi người dùng đội mũ bảo hiểm và chạy quá tốc độ được quy định (tùy thuộc người dùng đang ở đường nào và chỉnh tốc độ tối đa là bao nhiêu) thì mũ tự động thông báo mỗi 3 phút một lần đến khi người đó chạy đúng tốc độ. 
 
 ##### **III. Phát hiện va chạm và gửi tín hiệu khẩn cấp**
 * Luôn bật, có thể chỉnh một vài thông số trong phần cài đặt như là: 
@@ -138,16 +155,17 @@ Một số hình ảnh về ứng dụng điện thoại
   - Số điện thoại người nhận tín hiệu khẩn cấp. 
   - Gửi tín hiệu khẩn cấp qua kênh nào. Có 2 kênh cho người dùng tự chọn. 
 * Khi có va chạm thì mũ sẽ tự động thực hiện các bước: 
-  - Bước 1: Đánh giá va chạm (dựa vào các dữ liệu thu được từ cảm biến gia tốc kế, vận tốc,...). 
-  - Bước 2: Nếu va chạm nguy hiểm (lớn hơn hoặc bằng mức độ được cài đặt) thì mũ sẽ gửi tín hiệu theo các kênh được thiết đặt (và mũ sẽ sáng đèn đỏ để báo hiệu là bước gửi tín hiệu sắp được thực hiện). 
-  - Bước 3: Trong 10 giây, nếu người dùng không gặp nguy hiểm thì người dùng có thể bấm vào nút nguồn 2 lần liên tiếp, khi đó mũ sẽ không gửi tín hiệu. 
-  - Bước 4: Mũ sẽ gửi tín hiệu S.O.S. theo thứ tự danh sách người nhận trong cài đặt. 
-  
+  - **Bước 1:** Đánh giá va chạm (dựa vào các dữ liệu thu được từ cảm biến gia tốc kế, vận tốc,...). 
+  - **Bước 2:** Nếu va chạm nguy hiểm (lớn hơn hoặc bằng mức độ được cài đặt) thì mũ sẽ gửi tín hiệu theo các kênh được thiết đặt (và mũ sẽ sáng đèn đỏ để báo hiệu là bước gửi tín hiệu sắp được thực hiện). 
+  - **Bước 3:** Trong 10 giây, nếu người dùng không gặp nguy hiểm thì người dùng có thể bấm vào nút nguồn 2 lần liên tiếp, khi đó mũ sẽ không gửi tín hiệu. 
+  - **Bước 4:** Mũ sẽ gửi tín hiệu S.O.S. theo thứ tự danh sách người nhận trong cài đặt. 
+ * Người dùng cũng có thể gửi tín hiệu bằng cách giữ nút nguồn 5s.
+ 
 ##### **IV. Trợ lý giao thông**
 ###### **1. Chỉ đường:**
-* Bước 1: Kết nối mũ với điện thoại, mở app điện thoại, vào chức năng bản đồ. 
-* Bước 2: Chọn địa điểm đến, ứng dụng sẽ đưa ra những lộ trình để người dùng lựa chọn. 
-* Bước 3: Sau khi chọn lộ trình chọn nút bắt đầu di chuyển, khi đó lộ trình sẽ được gửi qua mũ và mũ sẽ ra hiệu cách di chuyển. 
+* **Bước 1:** Kết nối mũ với điện thoại, mở app điện thoại, vào chức năng bản đồ. 
+* **Bước 2: Chọn địa điểm đến, ứng dụng sẽ đưa ra những lộ trình để người dùng lựa chọn. 
+* **Bước 3:** Sau khi chọn lộ trình chọn nút bắt đầu di chuyển, khi đó lộ trình sẽ được gửi qua mũ và mũ sẽ ra hiệu cách di chuyển. 
 
 ###### **2. Nghe điện thoại:**
 * Trong phần cài đặt sẽ có 2 chế độ: 
@@ -157,7 +175,28 @@ Một số hình ảnh về ứng dụng điện thoại
 
 ###### **3. Đọc tin nhắn:**
 * Trong phần cài đặt, người dùng có thể chọn bật chế độ nhận tín hiệu khi có tin nhắn tới.  
-* Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. 
+* Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. Hoặc người dùng có thể tắt chức năng này trong phần cài đặt bằng cách chọn không đọc tin nhắn 
+
+###### **4. Nhắc nhở:**
+
+Cách đặt nhắc nhở: 
+
+* **Bước 1:** Mở app, và phần nhắc nhở, chọn nút thêm (hình dấu “+”) 
+* **Bước 2:** Chọn địa điểm, thời gian, và nội dung công việc cần nhắc nhở 
+* **Bước 3:** Đợi đồng bộ với mũ (nếu chưa kết nối với mũ) 
+
+Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công việc cần làm tại địa điểm đó. Rồi khoảng 1 km thì mũ sẽ thông báo lại và khi người dùng thực hiện xong công việc thì có thể bấm nút hoàn thành trong app điện thoại, nếu không mũ sẽ thông báo thêm 1 lần nữa khi người đó rời khỏi địa điểm đó 
+
+###### **5. Tìm mũ**
+* Bật app trên điện thoại, vào phần tìm mũ, khi đó app sẽ cho biết  vị trí lần cuối mà mũ còn kết nối với điện thoại 
+* Nếu trong phạm vi 40m thì có thể bật tính năng dò bằng bluetooth khi đó, app sẽ cho biết khoảng cách tương đối tới mũ và người dùng có thể tìm bằng cách di chuyển theo hướng cho khoảng cách này giảm đi
+
+##### **V. Camera hành trình **
+* Camera hành trình sẽ được kích hoạt khi người dùng đội nón bảo hiểm. Trên đường đi nếu có tai nạn xảy ra hoặc nếu người dùng có yêu cầu (bấm nút trên nón 2 lần) thì đoạn video sẽ được cắt 5 phút cuối và lưu lại còn không thì khi bộ nhớ đầy đoạn video cũ nhất sẽ bị xóa.  
+
+* Để xem lại video thì người dùng có thể dùng app điện thoại, trong phần video. Lưu ý cần phải kết nối với mũ thì mới có thể xem. Người dùng cũng có thể tải video về điện thoại và xóa đoạn video đó trên mũ 
+
+* Đoạn video sẽ được lưu cùng với vị trí hiện tại, thời gian và vận tốc, người dùng có thể xem thông tin này trong app.
 
 ### **So sánh tổng quan giữa các loại mũ**
 
