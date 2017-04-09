@@ -91,6 +91,13 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ### **Bản thiết kế**
 ### **Thông số kĩ thuật**
+
+Loại mũ | Thông số riêng | Thông số chung
+--------|----------------|---------------
+1/2 Head | Kích thước 16x21x12cm. 
+           Cân nặng: 0.6 kg | 
+           
+           
 ### **Quy trình vận hành**
 ### **Sơ lược về ứng dụng điện thoại**
 ### **Hướng dẫn sử dụng**
