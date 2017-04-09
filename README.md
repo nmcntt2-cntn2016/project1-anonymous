@@ -92,10 +92,16 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **Bản thiết kế**
 ### **Thông số kĩ thuật**
 
-Loại mũ | Thông số riêng | Thông số chung
---------|----------------|---------------
-1/2 Head | Kích thước 16x21x12cm. 
-           Cân nặng: 0.6 kg | 
+Thông số chung: 
+* Pin Lithium Polymer   10,000mAh cho thời gian hoạt động trên 10 tiếng.
+* SIM: hoạt động trên 2 dải tần 900/ 1800 MHz.
+* Tín hiệu đèn LED: hoạt động, đang sạc, pin yếu
+* Tương thích: Bluetooth 4.0 trờ lên, iOS 8.4 trở lên, Android 3.2.1 trở lên.
+
+
+Loại mũ | Thông số riêng 
+--------|----------------
+1/2 Head | Kích thước 16x21x12cm; Cân nặng: 0.6kg 
            
            
 ### **Quy trình vận hành**
