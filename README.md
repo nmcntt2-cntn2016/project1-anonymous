@@ -147,6 +147,13 @@ Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Đ
            
            
 ### **Quy trình vận hành**
+
+<p align="center">
+  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t35.0-12/17797570_610782939124446_1282176758_o.png?oh=45c4e82fc06e24645db6832515b5fc85&oe=58EC76F9">
+</p>
+
+
+
 ### **Sơ lược về ứng dụng điện thoại**
 <p align="center">
 <b>Một số hình ảnh về ứng dụng điện thoại</b><br>
