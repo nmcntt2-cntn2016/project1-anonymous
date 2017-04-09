@@ -136,13 +136,15 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ### **So sánh tổng quan giữa các loại mũ**
 
-  |  Full Head | 3/4 Head | 1/2 Head
---|------------|----------|----------
+
+Thông tin  |  Full Head | 3/4 Head | 1/2 Head
+-----------|------------|----------|----------
 Gửi tín hiệu khẩn cấp| x | x | x
 Định vị mũ | x | x | x
-Cảnh báo tốc độ | x | x | 
-Trợ lý giao thông | x | x |
-Camera hành trình | x | x | 
+Cảnh báo tốc độ | x | x | o
+Trợ lý giao thông | x | x | o
+Camera hành trình | x | x | o
+Giá bán | 8.500.000 | 1.500.000 | 750.000
 
 
 
