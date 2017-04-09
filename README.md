@@ -101,8 +101,11 @@ Thông số chung:
 
 Loại mũ | Thông số riêng 
 --------|----------------
-1/2 Head | Kích thước 16x21x12cm
-           Cân nặng: 0.6kg 
+1/2 Head |* Kích thước 16x21x12cm <br>* Cân nặng: 0,6kg
+3/4 Head |* Kích thước: 25 x 24 x 23 cm. <br>* Cân nặng: 1.0kg. <br>* Độ nhạy loa: 100 dB.<br>* Dải tần Microphone: 100Hz - 20KHz <br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
+Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Độ nhạy loa: 100 dB.<br>* Dải tần Microphone: 100Hz - 20KHz <br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
+
+          
            
            
 ### **Quy trình vận hành**
