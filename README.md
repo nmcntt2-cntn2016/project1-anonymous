@@ -94,7 +94,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 ### **Quy trình vận hành**
 ### **Sơ lược về ứng dụng điện thoại**
 ### **Hướng dẫn sử dụng**
-#### **I.Thiết đặt lần đầu**
+#### **I. Thiết đặt lần đầu**
 * Bước 1: Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
 * Bước 2: Bật Bluetooth trên điện thoại. 
 * Bước 3: Mở app trên điện thoại, mở hambergur menu (hình 3 gạch ở góc trái trên). 
