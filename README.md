@@ -129,13 +129,13 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ### **Thông số kĩ thuật**
 
-Thông số chung: 
+**Thông số chung:**
 * Pin Lithium Polymer   10,000mAh cho thời gian hoạt động trên 10 tiếng.
 * SIM: hoạt động trên 2 dải tần 900/ 1800 MHz.
 * Tín hiệu đèn LED: hoạt động, đang sạc, pin yếu
 * Tương thích: Bluetooth 4.0 trờ lên, iOS 8.4 trở lên, Android 3.2.1 trở lên.
 
-Thông số riêng:
+**Thông số riêng:**
 
 Loại mũ | Thông số 
 --------|----------------
@@ -201,7 +201,7 @@ Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s 
   - **Bước 2:** Nếu va chạm nguy hiểm (lớn hơn hoặc bằng mức độ được cài đặt) thì mũ sẽ gửi tín hiệu theo các kênh được thiết đặt (và mũ sẽ sáng đèn đỏ để báo hiệu là bước gửi tín hiệu sắp được thực hiện). 
   - **Bước 3:** Trong 10 giây, nếu người dùng không gặp nguy hiểm thì người dùng có thể bấm vào nút nguồn 2 lần liên tiếp, khi đó mũ sẽ không gửi tín hiệu. 
   - **Bước 4:** Mũ sẽ gửi tín hiệu S.O.S. theo thứ tự danh sách người nhận trong cài đặt. 
- * Người dùng cũng có thể gửi tín hiệu bằng cách giữ nút nguồn 5s.
+ * Người dùng cũng có thể gửi tín hiệu bằng cách nhấn nút nguồn 2 lần.
  
 ##### **IV. Trợ lý giao thông**
 ###### **1. Chỉ đường:**
