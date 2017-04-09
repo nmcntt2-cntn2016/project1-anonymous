@@ -111,6 +111,13 @@ Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Đ
            
 ### **Quy trình vận hành**
 ### **Sơ lược về ứng dụng điện thoại**
+Một số hình ảnh về ứng dụng điện thoại
+
+<p align="center">
+  <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17857956_610536882482385_928776943_n.jpg?oh=2c3141fd1b115217f0e85ce02ae113b2&oe=58EBC371">
+</p>
+
+
 ### **Hướng dẫn sử dụng**
 #### **I. Thiết đặt lần đầu**
 * Bước 1: Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
