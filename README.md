@@ -240,6 +240,9 @@ Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công vi�
 
 * Đoạn video sẽ được lưu cùng với vị trí hiện tại, thời gian và vận tốc, người dùng có thể xem thông tin này trong app.
 
+##### **V. Tiêu hủy**
+* Sau khi mũ hết hạn sử dụng (khoảng 10 năm), người dùng phải đem đến công ty chúng tôi để chúng tôi xử lý.
+
 
 [Xem chi tiết và tải về](https://1drv.ms/w/s!AgJYhaQnQpM8pcF5Stn17Y1XqVU6qQ)
 
