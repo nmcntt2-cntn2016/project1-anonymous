@@ -102,7 +102,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 
 <p align="center">
-  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t34.0-12/17842131_1921005524823908_1889603575_n.png?oh=ee347f4d2489709e25cd6c70327663db&oe=58EC3BE6">   
+  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t34.0-12/17842327_1921005554823905_915865517_n.png?oh=1ae64f0bd3e0b940401e716a619f9950&oe=58EC2E22">   
 <p align="center">
 <b>Mô hình 2: 3/4 Head</b><br>
 </p>
@@ -110,7 +110,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 
 <p align="center">
-  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t34.0-12/17842327_1921005554823905_915865517_n.png?oh=1ae64f0bd3e0b940401e716a619f9950&oe=58EC2E22">  
+  <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t34.0-12/17842131_1921005524823908_1889603575_n.png?oh=ee347f4d2489709e25cd6c70327663db&oe=58EC3BE6">  
 <p align="center">
 <b>Mô hình 3: Full Head</b><br>
 </p>
