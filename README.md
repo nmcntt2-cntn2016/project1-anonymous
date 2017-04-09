@@ -17,24 +17,24 @@ Trần Hoài Nam | 1612403 | Thiết kế mũ
 Sản phẩm của nhóm là mũ bảo hiểm thông minh có khả năng gửi tín hiệu cho người thân khi xảy ra sự cố, bên cạnh đó còn tích hợp camera hành trình và có thể kết nối với điện thoại thông minh để thực hiện một số các chức năng đặc biệt khác.
 
 ### **Thực trạng**
-Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra 21 094 vụ tai nạn,    làm   chết     8685 người, bị thương 19 280 người. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
+Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã hội. Trong năm 2016, nước ta xảy ra **21 094 vụ tai nạn**,    làm   **chết     8685 người**, **bị thương 19 280 người**. Có nhiều vụ tai nạn nếu được cấp cứu kịp thời, nạn nhân đã có thể được cứu sống. Vì vậy cần có một giải pháp để giảm thiểu thiệt hại bằng việc thông báo ngay lập tức cho người thân để hỗ trợ kịp thời.
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd2.png>  
 <p align="center">
-<b>Hình 1: Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016</b><br>
+<b>Hình 1: **Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016**</b><br>
 </p>
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd5.png>
 <p align="center">
-<b>Hình 2: Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016</b><br>
+<b>Hình 2: **Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016**</b><br>
 </p>
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd1.png>
 <p align="center">
-<b>Hình 3: Biểu đồ so sánh TNGT năm 2015 - 2016</b><br>
+<b>Hình 3: **Biểu đồ so sánh TNGT năm 2015 - 2016**</b><br>
 </p>
 
 
@@ -42,16 +42,16 @@ Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã 
 Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt hại về con người. Đồng thời hỗ trợ người điều khiển xe trong quá trình tham gia giao thông.
 
 ### **Đối tượng hướng đến**
-* Người dùng phổ thông: Thích hợp với loại ½ head hoặc ¾ head. Họ thường xuyên di chuyển quảng đường từ ngắn đến trung bình. Những người này cần loại mũ gọn nhẹ, có những chức năng cơ bản, giá thành vừa phải vì họ thường có thu nhập khoảng 5 triệu đến 15 triệu một tháng. 
-* Những người sử dụng moto, đi phượt hoặc thường xuyên di chuyển bằng xe gán máy trên đoạn đường dài: Thích hợp với loại mũ Full Head. Tuy giá thành cao nhưng với thu nhập của họ cùng tính năng của mũ khiến họ yên tâm hơn trên những chuyến đi xa.
-* Người thân của người đi xe gán máy: Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10 triệu một tháng trở lên.
+* **Người dùng phổ thông:** Thích hợp với loại ½ head hoặc ¾ head. Họ thường xuyên di chuyển quảng đường từ ngắn đến trung bình. Những người này cần loại mũ gọn nhẹ, có những chức năng cơ bản, giá thành vừa phải vì họ thường có thu nhập khoảng 5 triệu đến 15 triệu một tháng. 
+* **Những người sử dụng moto, đi phượt hoặc thường xuyên di chuyển bằng xe gán máy trên đoạn đường dài:** Thích hợp với loại mũ Full Head. Tuy giá thành cao nhưng với thu nhập của họ cùng tính năng của mũ khiến họ yên tâm hơn trên những chuyến đi xa.
+* **Người thân của người đi xe gán máy:** Những người này tuy không có nhu cầu sử dụng nhưng họ có khả năng mua để tặng, thậm chí tác động đến người thân đang dùng xe máy của mình sử dụng mũ bảo hiểm thông minh. Thông thường những người này thuộc tầng lớp trung lưu đến thương lưu, thu nhập từ 10 triệu một tháng trở lên.
 
 ### **Chức năng**
 
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17792412_646130398908109_1859550620_n.jpg?oh=af9d3199b995b42dde876ebcc62e8569&oe=58EAAC3D">  
 <p align="center">
-<b>Hình 4: Các chức năng</b><br>
+<b>Hình 4: **Các chức năng**</b><br>
 </p>
 
 ### **Chi tiết về các chức năng**
@@ -85,7 +85,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ##### **2. Tự động trả lời điện thoại và đọc tin nhắn.**
 *	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. Hiện tại, mũ chỉ mới đáp ứng 2 ngôn ngữ: Tiếng Việt và Tiếng Anh. 
-* Đối với 3/4 Head: Chỉ có chứng năng thông báo có điện thoại và đọc tin nhắn. Có nút trên mũ để nhận lệnh thực thi. 
+* **Đối với 3/4 Head:** Chỉ có chứng năng thông báo có điện thoại và đọc tin nhắn. Có nút trên mũ để nhận lệnh thực thi. 
 
 #### **VIII.	Camera hành trình**
 *	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
@@ -96,7 +96,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17821308_1920834234841037_1910131649_n.png?oh=86a72eb633b43f562e86256ff96966e0&oe=58EBBEF7">  
 <p align="center">
-<b>Mô hình 1: 1/2 Head</b><br>
+<b>Mô hình 1: **1/2 Head**</b><br>
 </p>
 
 
@@ -104,7 +104,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17820858_1920834251507702_278900940_n.png?oh=f734a70b2858386eb7a10ca58af430c9&oe=58ECA7A5">   
 <p align="center">
-<b>Mô hình 2: 3/4 Head</b><br>
+<b>Mô hình 2: **3/4 Head**</b><br>
 </p>
 
 
@@ -112,7 +112,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17842233_1920834261507701_330001824_n.png?oh=6be1597d3e667b087798184edce25e96&oe=58EC8CC3">  
 <p align="center">
-<b>Mô hình 3: Full Head</b><br>
+<b>Mô hình 3: **Full Head**</b><br>
 </p>
 
 
@@ -120,7 +120,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17821015_1920834271507700_41689950_n.png?oh=8916aa83c7b53f6bff4d425b1b54d609&oe=58ECB68A">    
 <p align="center">
-<b>Mô hình 4: Full Head</b><br>
+<b>Mô hình 4: **Full Head**</b><br>
 </p>
 
 
@@ -168,15 +168,15 @@ Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Đ
   - Chờ 
   - Hoạt động 
 
-Khi mới mua về thì mũ ở chế độ tắt, nếu người dùng muốn bật mũ từ chế độ này chỉ cần giữ nút nguồn 3s thì mũ sẽ chuyển sang chế độ chờ. 
+* Khi mới mua về thì mũ ở chế độ tắt, nếu người dùng muốn bật mũ từ chế độ này chỉ cần giữ nút nguồn 3s thì mũ sẽ chuyển sang chế độ chờ. 
 
-Khi ở chế độ chờ mũ chỉ chạy cảm biến nhận diện người dùng, khi đó nếu người dùng đội mũ lên thì lập tức mũ sẽ chuyển sang chế độ hoạt động. Ở chế độ này sẽ có một đèn LED trên nón sáng  nhấp nháy để báo là đang ở chế độ chờ.
+* Khi ở chế độ chờ mũ chỉ chạy cảm biến nhận diện người dùng, khi đó nếu người dùng đội mũ lên thì lập tức mũ sẽ chuyển sang chế độ hoạt động. Ở chế độ này sẽ có một đèn LED trên nón sáng  nhấp nháy để báo là đang ở chế độ chờ.
 
-Ngược lại thì khi mũ đang hoạt động người dùng có thể chuyển sang chế độ chờ bằng cách cởi mũ ra. Tuy nhiên để tránh tình huống khi tai nạn xảy ra mũ bị văng ra rồi mới đập thì mũ sẽ đợi khoảng 100ms rồi mới chuyển sang chế độ chờ hoặc nếu mũ đang thực hiện một số chức năng (như gửi tín hiệu khẩn cấp) thì mũ sẽ thực hiện cho xong rồi mới chuyển sang chế độ chờ. 
+* Ngược lại thì khi mũ đang hoạt động người dùng có thể chuyển sang chế độ chờ bằng cách cởi mũ ra. Tuy nhiên để tránh tình huống khi tai nạn xảy ra mũ bị văng ra rồi mới đập thì mũ sẽ đợi khoảng 100ms rồi mới chuyển sang chế độ chờ hoặc nếu mũ đang thực hiện một số chức năng (như gửi tín hiệu khẩn cấp) thì mũ sẽ thực hiện cho xong rồi mới chuyển sang chế độ chờ. 
 
-Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s nếu mũ đang thực hiện gửi tín hiệu khẩn cấp thì mũ sẽ thực hiện cho xong mới tắt.
+* Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s nếu mũ đang thực hiện gửi tín hiệu khẩn cấp thì mũ sẽ thực hiện cho xong mới tắt.
 
-Ở chế độ chờ mũ vẫn sẽ dùng pin nhưng ở một mức rất thấp nên, người dùng không nên chuyển về chế độ tắt vì khi mũ khởi động sẽ khá lâu và người dùng phải khởi động nón một cách thủ công. 
+* Ở chế độ chờ mũ vẫn sẽ dùng pin nhưng ở một mức rất thấp nên, người dùng không nên chuyển về chế độ tắt vì khi mũ khởi động sẽ khá lâu và người dùng phải khởi động nón một cách thủ công. 
 
 #### **I. Thiết đặt lần đầu**
 * **Bước 1:** Bật mũ bảo hiểm (bằng cách bấm nút Power trên mũ). 
@@ -221,7 +221,7 @@ Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s 
 
 ###### **4. Nhắc nhở:**
 
-Cách đặt nhắc nhở: 
+**Cách đặt nhắc nhở:**
 
 * **Bước 1:** Mở app, và phần nhắc nhở, chọn nút thêm (hình dấu “+”).
 * **Bước 2:** Chọn địa điểm, thời gian, và nội dung công việc cần nhắc nhở.
@@ -283,7 +283,7 @@ Trong đó:
 <p align="center">
   <img src="http://bikegearup.weebly.com/uploads/6/1/2/5/61250925/2104854_orig.jpg">  
 <p align="center">
-<b>Hình 4: Tỉ lệ va đập trên mũ</b><br>
+<b>Hình 4: **Tỉ lệ va đập trên mũ**</b><br>
 </p>
 
 
@@ -310,7 +310,7 @@ Trong đó:
 <p align="center">
   <img src=http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png>  
 <p align="center">
-<b>Hình 6: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
+<b>Hình 6: **Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014**</b><br>
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
