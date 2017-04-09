@@ -164,7 +164,7 @@ Nếu muốn tắt mũ thì người dùng sẽ nhấn nút nguồn khoảng 5s 
 ##### **IV. Trợ lý giao thông**
 ###### **1. Chỉ đường:**
 * **Bước 1:** Kết nối mũ với điện thoại, mở app điện thoại, vào chức năng bản đồ. 
-* **Bước 2: Chọn địa điểm đến, ứng dụng sẽ đưa ra những lộ trình để người dùng lựa chọn. 
+* **Bước 2:** Chọn địa điểm đến, ứng dụng sẽ đưa ra những lộ trình để người dùng lựa chọn. 
 * **Bước 3:** Sau khi chọn lộ trình chọn nút bắt đầu di chuyển, khi đó lộ trình sẽ được gửi qua mũ và mũ sẽ ra hiệu cách di chuyển. 
 
 ###### **2. Nghe điện thoại:**
@@ -191,7 +191,7 @@ Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công vi�
 * Bật app trên điện thoại, vào phần tìm mũ, khi đó app sẽ cho biết  vị trí lần cuối mà mũ còn kết nối với điện thoại 
 * Nếu trong phạm vi 40m thì có thể bật tính năng dò bằng bluetooth khi đó, app sẽ cho biết khoảng cách tương đối tới mũ và người dùng có thể tìm bằng cách di chuyển theo hướng cho khoảng cách này giảm đi
 
-##### **V. Camera hành trình **
+##### **V. Camera hành trình**
 * Camera hành trình sẽ được kích hoạt khi người dùng đội nón bảo hiểm. Trên đường đi nếu có tai nạn xảy ra hoặc nếu người dùng có yêu cầu (bấm nút trên nón 2 lần) thì đoạn video sẽ được cắt 5 phút cuối và lưu lại còn không thì khi bộ nhớ đầy đoạn video cũ nhất sẽ bị xóa.  
 
 * Để xem lại video thì người dùng có thể dùng app điện thoại, trong phần video. Lưu ý cần phải kết nối với mũ thì mới có thể xem. Người dùng cũng có thể tải video về điện thoại và xóa đoạn video đó trên mũ 
