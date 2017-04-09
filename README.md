@@ -85,7 +85,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ##### **2. Tự động trả lời điện thoại và đọc tin nhắn.**
 *	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. Hiện tại, mũ chỉ mới đáp ứng 2 ngôn ngữ: Tiếng Việt và Tiếng Anh. 
-* **Đối với 3/4 Head:** Chỉ có chứng năng thông báo có điện thoại và đọc tin nhắn. Có nút trên mũ để nhận lệnh thực thi. 
+* **Đối với 3/4 Head:** Chỉ có chức năng thông báo có điện thoại và đọc tin nhắn. Có nút trên mũ để nhận lệnh thực thi. 
 
 #### **VIII.	Camera hành trình**
 *	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
