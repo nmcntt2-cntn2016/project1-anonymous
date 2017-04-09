@@ -223,7 +223,7 @@ b) Sản phẩm 1/2 Head dành cho người dùng phổ thông
  Song song với chiếm lĩnh thị trường Việt, chúng tôi sẽ hướng đến phân phối sản phẩm sang các nước Đông Nam Á lân cận như Campuchia, Thái Lan, Lào, .... Đồng thời sẽ tiến vào các thị trường khó tính như: Nga, Châu Âu, Hoa Kì, Nhật Bản. 
 
 ### **MỞ RỘNG**
-#### **I. Các môn học cần thiết**
+#### **I. Các môn học liên quan đến CNTT cần thiết**
 - Thiết kế giao diện
 - Lập trình nhúng
 - Phát triển phần mềm cho thiết bị di động.
