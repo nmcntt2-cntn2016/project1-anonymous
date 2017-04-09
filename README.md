@@ -241,7 +241,7 @@ Khi còn cách địa điểm khoảng 2 km thì mũ sẽ thông báo công vi�
 * Đoạn video sẽ được lưu cùng với vị trí hiện tại, thời gian và vận tốc, người dùng có thể xem thông tin này trong app.
 
 
-[Xem chi tiết và tải về ]("https://onedrive.live.com/view.aspx?resid=3C934227A4855802!614649&ithint=file%2cdocx&app=Word&authkey=!AErZ9e2NV6lVOqk")
+[Xem chi tiết và tải về](https://1drv.ms/w/s!AgJYhaQnQpM8pcF5Stn17Y1XqVU6qQ)
 
 ### **So sánh tổng quan giữa các loại mũ**
 
