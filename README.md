@@ -134,6 +134,18 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Trong phần cài đặt, người dùng có thể chọn bật chế độ nhận tín hiệu khi có tin nhắn tới.  
 * Lúc đó, nếu có tin nhắn, mũ sẽ đọc thông tin người gửi. Người dùng có thể chọn nghe hoặc bỏ qua thông qua giọng nói hoặc nút bấm trên mũ. 
 
+### **So sánh tổng quan giữa các loại mũ**
+
+  |  Full Head | 3/4 Head | 1/2 Head
+--|------------|----------|----------
+Gửi tín hiệu khẩn cấp| x | x | x
+Định vị mũ | x | x | x
+Cảnh báo tốc độ | x | x | 
+Trợ lý giao thông | x | x |
+Camera hành trình | x | x | 
+
+
+
 ### **CÁC VẤN ĐỀ VÀ GIẢI PHÁP**
 #### **I. MẶT KỸ THUẬT**
 ##### **1. Làm sao xác định được va chạm thế nào là gây nguy hiểm?**
