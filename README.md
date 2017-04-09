@@ -22,19 +22,19 @@ Hiện nay, tai nạn giao thông là một vấn đề nhức nhối trong xã 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd2.png>  
 <p align="center">
-<b>Hình 1: **Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016**</b><br>
+<b>Hình 1: Biểu đồ phân tích tuyến đường xảy ra TNGT năm 2015 - 2016</b><br>
 </p>
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd5.png>
 <p align="center">
-<b>Hình 2: **Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016**</b><br>
+<b>Hình 2: Biểu đồ phân tích phương tiện gây tai nạn giao thông 2015 - 2016</b><br>
 </p>
 
 <p align="center">
   <img src=http://www.hvcsnd.edu.vn/Uploaded/xuanthanh/2017/thang%201/Thong%20ke%20TNGT/bd1.png>
 <p align="center">
-<b>Hình 3: **Biểu đồ so sánh TNGT năm 2015 - 2016**</b><br>
+<b>Hình 3: Biểu đồ so sánh TNGT năm 2015 - 2016</b><br>
 </p>
 
 
@@ -51,7 +51,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17792412_646130398908109_1859550620_n.jpg?oh=af9d3199b995b42dde876ebcc62e8569&oe=58EAAC3D">  
 <p align="center">
-<b>Hình 4: **Các chức năng**</b><br>
+<b>Hình 4: Các chức năng</b><br>
 </p>
 
 ### **Chi tiết về các chức năng**
@@ -96,7 +96,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17821308_1920834234841037_1910131649_n.png?oh=86a72eb633b43f562e86256ff96966e0&oe=58EBBEF7">  
 <p align="center">
-<b>Mô hình 1: **1/2 Head**</b><br>
+<b>Mô hình 1: 1/2 Head</b><br>
 </p>
 
 
@@ -104,7 +104,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17820858_1920834251507702_278900940_n.png?oh=f734a70b2858386eb7a10ca58af430c9&oe=58ECA7A5">   
 <p align="center">
-<b>Mô hình 2: **3/4 Head**</b><br>
+<b>Mô hình 2: 3/4 Head</b><br>
 </p>
 
 
@@ -112,7 +112,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17842233_1920834261507701_330001824_n.png?oh=6be1597d3e667b087798184edce25e96&oe=58EC8CC3">  
 <p align="center">
-<b>Mô hình 3: **Full Head**</b><br>
+<b>Mô hình 3: Full Head</b><br>
 </p>
 
 
@@ -120,7 +120,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 <p align="center">
   <img src="https://scontent.fsgn5-1.fna.fbcdn.net/v/t34.0-12/17821015_1920834271507700_41689950_n.png?oh=8916aa83c7b53f6bff4d425b1b54d609&oe=58ECB68A">    
 <p align="center">
-<b>Mô hình 4: **Full Head**</b><br>
+<b>Mô hình 4: Full Head</b><br>
 </p>
 
 
@@ -283,7 +283,7 @@ Trong đó:
 <p align="center">
   <img src="http://bikegearup.weebly.com/uploads/6/1/2/5/61250925/2104854_orig.jpg">  
 <p align="center">
-<b>Hình 4: **Tỉ lệ va đập trên mũ**</b><br>
+<b>Hình 4: Tỉ lệ va đập trên mũ</b><br>
 </p>
 
 
@@ -310,7 +310,7 @@ Trong đó:
 <p align="center">
   <img src=http://znews-photo.d.za.zdn.vn/w660/Uploaded/ovhunut/2016_11_02/grp1_1.png>  
 <p align="center">
-<b>Hình 6: **Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014**</b><br>
+<b>Hình 6: Biểu đồ thu nhập năm chia theo nhóm thu nhập giai đoạn 2004-2014</b><br>
 </p>
 
 - Số lượng người dùng xe máy tính tới thời điểm hiện tại khoảng 45 triệu chiếc. 
