@@ -56,7 +56,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 
 ### **Chi tiết về các chức năng**
 #### **I.	Nhận diện người dùng**
-*	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi người dùng đội mũ, tất cả các chứng năng sẽ tự động bật
+*	Mũ được trang bị cảm biến giúp nhận dạng người dùng. Khi mũ ở chế độ chờ, người dùng đội mũ, tất cả các chứng năng sẽ tự động bật.
 
 #### **II.	Phát hiện va chạm**
 *	Khi có va chạm xảy ra, bộ cảm biến sẽ gửi tín hiệu đến trung tâm xử lý.
@@ -72,7 +72,7 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 * Nội dung tin nhắn sẽ bao gồm:
   - Vị trí của người sử dụng gặp sự cố theo GPS.
   - Thời gian thực được lưu lại.
-  - SOS
+  - S.O.S.
   - Chỉ số HIC và tốc độ xe tại thời điểm đó.
   -	Hình ảnh cắt từ camera (nếu có Internet).
 
@@ -84,7 +84,8 @@ Hạn chế tình trạng phát hiện sự cố quá trễ dẫn đến thiệt
 *	Kết nối với điện thoại thông qua BLUETOOTH. Chiếc mũ sẽ như một trợ lý ảo chỉ đường cho người dùng thông qua loa trên mũ khi người dùng sử dụng "Bản đồ" trên ứng dụng điện thoại để tìm đường đi.
 
 ##### **2. Tự động trả lời điện thoại và đọc tin nhắn.**
-*	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. Hiện tại, mũ chỉ mới đáp ứng 2 ngôn ngữ: Tiếng Việt và Tiếng Anh.
+*	Do được kết nối với điện thoại, khi điện thoại nhận được cuộc gọi, loa gắn trên mũ sẽ thông báo cho người đội mũ biết. Người dùng có thể nói vào mic để trả lời hoặc từ chối cuộc gọi thông qua một số câu lệnh có sẵn. Tương tự, khi có tin nhắn, người đội mũ sẽ được thông báo. Người đội mũ có thể sử dụng chức năng đọc tin nhắn đến của mũ để nghe tin nhắn. Hiện tại, mũ chỉ mới đáp ứng 2 ngôn ngữ: Tiếng Việt và Tiếng Anh. 
+* Đối với 3/4 Head: Chỉ có chứng năng thông báo có điện thoại và đọc tin nhắn. Có nút trên mũ để nhận lệnh thực thi. 
 
 #### **VIII.	Camera hành trình**
 *	Camera được tích hợp để ghi lại 5 phút sau cùng. Nếu có sự cố xảy ra, camera tự động ghi cho đến khi đầy bộ nhớ.  Người dùng có thể thay đổi thẻ nhớ. Camera có tầm mở rộng 120 độ. 
@@ -103,7 +104,7 @@ Thông số riêng:
 Loại mũ | Thông số 
 --------|----------------
 1/2 Head |* Kích thước 16x21x12cm <br>* Cân nặng: 0,6kg
-3/4 Head |* Kích thước: 25 x 24 x 23 cm. <br>* Cân nặng: 1.0kg. <br>* Độ nhạy loa: 100 dB.<br>* Dải tần Microphone: 100Hz - 20KHz <br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
+3/4 Head |* Kích thước: 25 x 24 x 23 cm. <br>* Cân nặng: 1.0kg. <br>* Độ nhạy loa: 100 dB.<br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
 Full Head |* Kích thước: 29 x 25 x 27 cm. <br>* Cân nặng: 1.3kg. <br>* Độ nhạy loa: 100 dB.<br>* Dải tần Microphone: 100Hz - 20KHz <br>* Camera hồng ngoại 8 Mpx, góc quay 120 độ, ống kính tiêu cự cố định, quay phim HD, chụp ảnh 3280 x 2464.
 
           
