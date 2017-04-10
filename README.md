@@ -263,7 +263,7 @@ Gửi tín hiệu khẩn cấp| x | x | x
 Cảnh báo tốc độ | x | x | o
 Trợ lý giao thông | x | x | o
 Camera hành trình | x | x | o
-Giá bán (VNĐ) | 4.500.000 | 3.200.000 | 600.000
+Giá bán (VNĐ) | 7.500.000 | 3.200.000 | 750.000
 
 
 
